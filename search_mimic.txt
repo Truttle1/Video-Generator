@@ -1,0 +1,34 @@
+SEN: This is the Indominus rex.
+SEARCH: Indominus rex
+###
+SEN: And here we have the T-Rex, or Tyrannosaurus Rex as it was originally called.
+SEARCH: T-Rex
+###
+SEN: This guy is basically a Velociraptor with new DNA spliced into its genome that makes it bigger and smarter than any other raptor ever known to exist.
+SEARCH: Smart Raptor
+###
+SEN: This thing was huge!
+SEARCH: Huge Dinosaur
+###
+SEN: The Emoji Movie is a bad movie!
+SEARCH: Emoji Movie
+###
+SEN: How to fix my computer?
+SEARCH: Computer Repair
+###
+SEN: This is my favorite Pokemon ever!
+SEARCH: Pokemon
+###
+SEN: Super Mario Bros. is an NES game from 1985.
+SEARCH: Super Mario Bros.
+###
+SEN: The Pamlicos built dugout canoes out of cypress trees that grew in abundance along their coastline (see image above).
+SEARCH: dugout canoes
+###
+SEN: coastal tribes in North America at this time period
+SEARCH: Native Americans
+###
+SEN: The Pamlico Indians, or Pamlicos, were a Native American tribe that lived on the East Coast
+SEARCH: Pamlico Indians
+###
+SEN:
